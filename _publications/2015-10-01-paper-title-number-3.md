@@ -2,7 +2,7 @@
 title: "Ideologia e Discurso: o posicionamento do Partido dos Trabalhadores na oposição e no governo"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-venue: "The Journal of Legislative Studies"
+venue: "Revista Brasileira de Ciência Política"
 excerpt: co-authored with Amanda Mendes
 date: 2019-03-24
 ---
