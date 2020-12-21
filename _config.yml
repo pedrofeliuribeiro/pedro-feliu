@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-BR"
+locale                   : "pt-BR"
 title                    : "Academic Information"
 title_separator          : "-"
 name                     : &name "Pedro Feliú Ribeiro"
