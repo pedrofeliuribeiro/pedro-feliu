@@ -17,4 +17,5 @@ empirical utility and theoretical complementarity of the insertion of a variable
 Keywords: Presidentialism; ministries; political parties; media; Brazil.
 
 [Download paper here](https://brazilianpoliticalsciencereview.org/wp-content/uploads/articles_xml/1981-3821-bpsr-15-1-e0001/1981-3821-bpsr-15-1-e0001.x89995.pdf)
+
 [Download data for replication here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NCPXYV)
