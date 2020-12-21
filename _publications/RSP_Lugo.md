@@ -1,5 +1,5 @@
 ---
-title: "Política Externa e Legislativo no Paraguaido Presidente Lugo"
+title: "Política Externa e Legislativo no Paraguai do Presidente Lugo"
 collection: publications
 permalink: /publication/RSP_Lugo/
 venue: "Revista de Sociologia e Política"
