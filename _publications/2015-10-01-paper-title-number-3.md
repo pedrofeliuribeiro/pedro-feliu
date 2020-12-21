@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "Ideologia e Discurso: o posicionamento do Partido dos Trabalhadores na oposição e no governo"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: "The Journal of Legislative Studies"
+excerpt: co-authored with Amanda Mendes
+date: 2019-03-24
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Abstract
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Pesquisas prévias argumentaram a mudança no posicionamento ideológico do Partido dos Trabalhadores nas últimas décadas, especialmente quando passou a assumir o governo federal. Os autores estendem essa agenda de pesquisa analisando os discursos de legisladores petistas que estiveram presentes no período em que o partido era oposição e governo em temáticas semelhantes nos mesmos períodos. Por meio do método wordscores, demonstramos a migração ideológica do PT para a direita, fortalecendo a evidência empírica do fenômeno. A análise do conteúdo substantivo dos discursos revelou a direção da mudança em assuntos como as reformas da previdência e trabalhista, educação e relações
+exteriores.
+
+Keywords: Ideologia; Discursos; Partido dos Trabalhadores (PT); Wordscores; Brasil.
+
+
+[Download paper here](https://www.scielo.br/pdf/rbcpol/n28/2178-4884-rbcpol-28-161.pdf)
