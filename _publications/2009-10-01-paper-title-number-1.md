@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Media Exposure of Portfolios as a Measure of Relevance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications/2009-10-01-paper-title-number-
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-10-01
+venue: 'Brazilian Political Science Review'
+paperurl: 'https://brazilianpoliticalsciencereview.org/wp-content/uploads/articles_xml/1981-3821-bpsr-15-1-e0001/1981-3821-bpsr-15-1-e0001.x89995.pdf'
+citation: 'Feliu, Pedro Ribeiro and Martins, Luis Alves. (2021). &quot;Media Exposure of Portfolios as a Measure of Relevance Number 1.&quot; <i>Journal 1</i>. 15(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://brazilianpoliticalsciencereview.org/wp-content/uploads/articles_xml/1981-3821-bpsr-15-1-e0001/1981-3821-bpsr-15-1-e0001.x89995.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download data for replication here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NCPXYV)
+
+Recommended citation: Feliu, Pedro Ribeiro and Martins, Luis Alves. (2021). "Media Exposure of Portfolios as a Measure of Relevance." <i>Brazilian Political Science Review</i>. 15(1).
+
