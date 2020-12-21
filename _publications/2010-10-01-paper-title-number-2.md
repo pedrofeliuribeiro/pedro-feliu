@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 2"
+title: "President and Congress in Paraguay: legislative success in foreign and domestic policy"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: "The Journal of Legislative Studies"
+excerpt: co-authored with Camilo Lopez and Rodrigo Lyra
+date: 2020-10-31
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Abstract
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+The president's ability to legislate is a central element in studies of presidential regimes. A debate persists about the existence of ‘two presidencies’, that is, whether presidential legislative proposals are more successful in Congress when the subject is foreign policy compared to domestic politics. The article makes an empirical contribution in confirming the thesis of the two presidents in a case whose legislative powers of the president are the lowest in the region: Paraguay. Statistical analysis also reveals the importance of political and economic variables in the propensity to approve matters in the Paraguayan legislature, such as presidential popularity, unemployment and the effective number of parties. While the National Congress constrains the legislative production of the Paraguayan president in domestic issues, the president's foreign policy receives high support from legislators. The different characteristics of foreign policy stimulate congressional delegation of the matter to the president.
+
+Keywords: Presidentialism, Legislative Success, Foreign P olicy, Domestic Policy, Paraguay.
+
+[Download paper here](https://www.tandfonline.com/doi/abs/10.1080/13572334.2020.1818926)
+
+
+
+
+
+
+
