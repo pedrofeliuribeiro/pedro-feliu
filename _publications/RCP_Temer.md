@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/RCP_Temer/
 venue: "Revista de Ciencia Politica (Santiago)"
 excerpt: Only author
-date: 2018-15-03
+date: 2018-03-15
 
 ---
 
