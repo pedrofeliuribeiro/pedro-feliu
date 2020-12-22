@@ -2,7 +2,7 @@
 title: "Classic Theories of International Relations"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1/
 venue: "University of São Paulo, International Relations Institute"
 date: 2020-12-01
 location: "São Paulo, Brazil"
