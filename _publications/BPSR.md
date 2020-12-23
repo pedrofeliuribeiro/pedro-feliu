@@ -3,7 +3,7 @@ title: "Political parties, foreign policy and ideology: Argentina and Chile in c
 collection: publications
 permalink: /publication/BPSR/
 venue: "Brazilian Political Science Review"
-excerpt: co-uthored with Janina Onuki and Amancio Oliveira
+excerpt: co-authored with Janina Onuki and Amancio Oliveira
 date: 2009-10-15
 ---
 
