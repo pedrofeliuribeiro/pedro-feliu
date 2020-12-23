@@ -8,7 +8,8 @@ date: 2020-06-29
 location: "São Paulo, Brazil"
 ---
 Shared with Prof. Natália Poiatti
-======
+
+USP Course Code BRI0021
 
 Course Description
 
