@@ -26,8 +26,8 @@ Work experience
   * Duties included: Research and Teaching
 
 * 2007 to 2009: Adjunct Professor 
- * Universidade Anhembi Morumbi, Brazil
- * Duties included: Teaching
+  * Universidade Anhembi Morumbi, Brazil
+  * Duties included: Teaching
  
 Publications
 ======
