@@ -11,41 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in International Relations, Pontifícia Universidade Católica (PUC-SP), 2001-2004
+* M.S. in Political Science, University of São Paulo (USP), 2006-2008
+* Ph.D in Political Science, University of São Paulo (USP), 2009-2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 to present: Associate Professor at the Institute of International Relations
+  * University of São Paulo
+  * Duties included: Research and Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2010 to 2014: Assistant Professor at the International Relations Department
+  * Federal University of Paraíba, Brazil
+  * Duties included: Research and Teaching
 
+* 2007 to 2009: Adjunct Professor 
+ * Universidade Anhembi Morumbi, Brazil
+ * Duties included: Teaching
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +41,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
