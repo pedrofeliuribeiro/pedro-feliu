@@ -3,7 +3,7 @@ title: "Unidade partidária e política externa na América Latina"
 collection: publications
 permalink: /publication/RBCS/
 venue: "Revista Brasileira de Ciências Sociais"
-excerpt: co-uthored with Janina Onuki
+excerpt: co-authored with Janina Onuki
 date: 2014-10-15
 ---
 
