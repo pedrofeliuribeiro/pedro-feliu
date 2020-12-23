@@ -3,7 +3,7 @@ title: "Política externa chilena e espectro ideológico político-partidário: 
 collection: publications
 permalink: /publication/Dados/
 venue: "Dados"
-excerpt: Co-authored ith Amancio Oliveira and Manoel Galdino
+excerpt: Co-authored with Amancio Oliveira and Manoel Galdino
 date: 2009-12-05
 ---
 
