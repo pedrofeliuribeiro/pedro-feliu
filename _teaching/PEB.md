@@ -8,8 +8,6 @@ date: 2018-12-01
 location: "São Paulo, Brazil"
 ---
 
-======
-
 Course Code USP: BRI0067
 
 Course Description
