@@ -15,11 +15,7 @@ Keywords: Presidentialism, Legislative Success, Foreign P olicy, Domestic Policy
 
 [Download paper here](https://www.tandfonline.com/doi/abs/10.1080/13572334.2020.1818926)
 
-```
-./files/replication.dta
-
-```
-
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129861/version/V1/view)
 
 
 
