@@ -16,3 +16,5 @@ Keywords: Ideologia; Discursos; Partido dos Trabalhadores (PT); Wordscores; Bras
 
 
 [Download paper here](https://www.scielo.br/pdf/rbcpol/n28/2178-4884-rbcpol-28-161.pdf)
+
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129862/version/V1/view)
