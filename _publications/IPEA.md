@@ -15,3 +15,5 @@ Keywords: Política Externa, Partidos Políticos, Executivo, Legislativo, Brasil
 
 
 [Download paper here](https://www.ipea.gov.br/portal/images/stories/PDFs/livros/livros/181206_a_politica_externa_brasileira_cap03.pdf)
+
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129901/version/V1/view)
