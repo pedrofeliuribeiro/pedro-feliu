@@ -16,3 +16,5 @@ Keywords: política externa, Legislativo, presidente, Paraguai, Fernando Lugo
 
 
 [Download paper here](https://revistas.ufpr.br/rsp/article/view/65283/37785)
+
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129902/version/V1/view)
