@@ -15,3 +15,5 @@ Keywords: apoyo legislativo al presidente, política exterior, política domést
 
 
 [Download paper here](https://scielo.conicyt.cl/pdf/revcipol/v37n1/art05.pdf)
+
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129921/version/V1/view)
