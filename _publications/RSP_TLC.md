@@ -14,4 +14,6 @@ O artigo analisa as votações nominais de três poderes legislativos sul-americ
 Keywords: política comercial; poderes legislativos sul-americanos; TLC; Estados Unidos
 
 
-[Download paper here](https://revistas.ufpr.br/rsp/article/view/34425/21349)
+[Download paper here](https://www.scielo.br/pdf/rsocp/v20n44/v20n44a10.pdf)
+
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129924/version/V1/view)
