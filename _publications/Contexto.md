@@ -14,4 +14,6 @@ Which factors determine legislative support for the foreign policy initiatives o
 Keywords: Foreign Policy Analysis; Domestic Actors; Latin American Politics; Legislative Behaviour; Presidential Systems.
 
 
-[Download paper here](http://contextointernacional.iri.puc-rio.br/media/Artigo%2013%20da%20Revista%20Contexto%20Internacional%2038%20n%C2%BA%201.pdf)
+[Download paper here](https://www.scielo.br/scielo.php?pid=S0102-85292016000100467&script=sci_arttext)
+
+[Downsload data for replication here](https://www.openicpsr.org/openicpsr/project/129922/version/V1/view)
