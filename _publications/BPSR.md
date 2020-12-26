@@ -15,3 +15,5 @@ Keywords: Legislative; Political parties; Foreign policy; Chile; Argentina
 
 
 [Download paper here](http://socialsciences.scielo.org/pdf/s_bpsr/v4nse/a09.pdf)
+
+[Download data here](https://www.openicpsr.org/openicpsr/project/129926/version/V1/view)
