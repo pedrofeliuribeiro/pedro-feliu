@@ -16,4 +16,4 @@ Keywords: Foreign Policy Analysis; Domestic Actors; Latin American Politics; Leg
 
 [Download paper here](https://www.scielo.br/scielo.php?pid=S0102-85292016000100467&script=sci_arttext)
 
-[Downsload data for replication here](https://www.openicpsr.org/openicpsr/project/129922/version/V1/view)
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129922/version/V1/view)
