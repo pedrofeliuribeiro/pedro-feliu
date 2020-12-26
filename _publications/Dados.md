@@ -15,3 +15,5 @@ Keywords: foreign policy; political parties; ideology; Chilean Chamber of Deputi
 
 
 [Download paper here](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582009000400002&lng=pt&tlng=pt)
+
+[Download data for replication here](https://www.openicpsr.org/openicpsr/project/129925/version/V1/view)
