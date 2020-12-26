@@ -15,3 +15,5 @@ Keywords: Partidos políticos; Unidade partidária; Política externa; Política
 
 
 [Download paper here](https://www.scielo.br/pdf/rbcsoc/v29n86/09.pdf)
+
+[Download data here](https://www.openicpsr.org/openicpsr/project/129923/version/V1/view)
