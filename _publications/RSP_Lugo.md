@@ -15,6 +15,6 @@ Introdução: O artigo avalia a associação entre fatores políticos e instituc
 Keywords: política externa, Legislativo, presidente, Paraguai, Fernando Lugo
 
 
-[Download paper here](https://revistas.ufpr.br/rsp/article/view/65283/37785)
+[Download paper here](https://www.scielo.br/pdf/rsocp/v26n68/0104-4478-rsocp-26-68-0075.pdf)
 
 [Download data for replication here](https://www.openicpsr.org/openicpsr/project/129902/version/V1/view)
