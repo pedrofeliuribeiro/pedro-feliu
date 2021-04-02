@@ -16,4 +16,4 @@ This course aims to analyze Brazilian Foreign Policy from different theoretical 
 
 
 
-[Access the Course Moodle Page Here](https://edisciplinas.usp.br/course/view.php?id=60851)  
+[Access the Course Moodle Page Here](https://edisciplinas.usp.br/course/view.php?id=84437)  
