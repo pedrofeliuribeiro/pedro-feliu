@@ -2,7 +2,7 @@
 title: "Presidents, Legislators, and Foreign Policy in Latin America"
 collection: publications
 permalink: /publication/Contexto/
-venue: "Contexto Interncional"
+venue: "Contexto Internacional"
 excerpt: co-authored with Flávio Pinheiro
 date: 2016-08-26
 ---
