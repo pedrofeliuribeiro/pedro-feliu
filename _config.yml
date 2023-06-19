@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://pedrofeliuribeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/pedro-feliu" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/pedrofeliuribeiro"
-teaser                   : "/images/Foto em 25-04-2023 às 12.00 #2.jpg/" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/profile.png/" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Feliú Ribeiro"
-  avatar           : "Foto em 25-04-2023 às 12.00 #2.jpg"
+  avatar           : "profile.png"
   bio              : "Associate Professor at the International Relations Institute, University of São Paulo (USP)"
   location         : "São Paulo, Brazil"
   employer         : "University of São Paulo"
