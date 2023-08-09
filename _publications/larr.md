@@ -14,7 +14,7 @@ Does national media news coverage affect the behavior of legislators when decidi
 Keywords: Legislative; Media; Foreign Policy; Paraguay. 
 
 
-[Download paper here](https://larrlasa.org/articles/10.25222/larr.592/)
+[Download paper here](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B41788528FB2077BBDAD918771DDA7E1/S0023879100006786a.pdf/legislative-behavior-mass-media-and-foreign-policy-making-the-case-of-paraguay.pdf)
 
 [Download data for replication here](https://doi.org/10.25222/larr.592.s1)
 
