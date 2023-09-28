@@ -15,4 +15,4 @@ Keywords: Foreign policy, domestic policy, ministerial survival, Latin America.
 
 [Download paper here](https://www.cambridge.org/core/journals/latin-american-politics-and-society/article/abs/foreign-policy-specificity-an-analysis-of-ministerial-survival-in-latin-america-19452020/3D9C14E20DA5E4F897BA5710E333FB68)
 
-[Download data for replication here](dataverse)
+[Download data for replication here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FN4GNGD&version=DRAFT)
