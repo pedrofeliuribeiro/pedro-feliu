@@ -1,10 +1,12 @@
 ---
 title: "Ministerial Instability and Autocratic Regimes: The Case of Argentina"
 collection: publications
-permalink: /publication/JLAS/
+permalink: /publications/jlas
+excerpt: "This article investigates ministerial instability within autocratic regimes..."
 venue: "Journal of Latin American Studies"
-excerpt: co-authored with Rodrigo Lyra
 date: 2026-02-05
+authors: "Rodrigo Lyra and Pedro Feliú"  
+layout: publication                    
 ---
 
 Abstract
