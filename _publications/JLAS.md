@@ -1,7 +1,7 @@
 ---
 title: "Ministerial Instability and Autocratic Regimes: The Case of Argentina"
 collection: publications
-permalink: /publications/jlas
+permalink: /publication/JLAS
 excerpt: "This article investigates ministerial instability within autocratic regimes..."
 venue: "Journal of Latin American Studies"
 date: 2026-02-05
