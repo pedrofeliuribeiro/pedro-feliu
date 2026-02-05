@@ -6,7 +6,7 @@ excerpt: "This article investigates ministerial instability within autocratic re
 venue: "Journal of Latin American Studies"
 date: 2026-02-05
 authors: "Rodrigo Lyra and Pedro Feliú"  
-layout: publication                    
+layout: default                    
 ---
 
 Abstract
